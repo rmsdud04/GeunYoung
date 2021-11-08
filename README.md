@@ -1,2 +1,1 @@
-# GeunYoung
-포트폴리오
+https://github.com/rmsdud04/rmsdud04.github.io
